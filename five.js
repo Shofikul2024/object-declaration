@@ -1,4 +1,4 @@
-let shofikul = {
+const shofikul = {
 
     Name: 'shofikul islam' ,
 
@@ -9,8 +9,8 @@ let shofikul = {
     
     occupation: ' students'  ,
 
-    home: 'mymensing' 
+    homeDivision: 'mymensing' 
 }
 
 console.log( shofikul)
- 
+console.log(shofikul.address)
