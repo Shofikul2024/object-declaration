@@ -32,3 +32,5 @@ console.log(person[keyName])
 const propName ='profession' ;
 person [propName] = 'devops'
 console.log ( person)
+
+
